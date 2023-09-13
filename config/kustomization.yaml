@@ -10,7 +10,6 @@ resources:
   - operators/gitops.yaml
   - operators/pipelines.yaml
   - operators/serverless.yaml
-  - operators/strimzi.yaml
   - operators/crunchy.yaml
   
 # configure registry
